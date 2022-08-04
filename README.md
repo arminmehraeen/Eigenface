@@ -2,7 +2,7 @@
 Eigenface with PCA in matlab
 
 # Code
-'''
+```
 clear all
 close all
 clc
@@ -31,4 +31,4 @@ title('Original test image');
 subplot(1,2,2)
 imshow(I_recon);
 title('Reconstructed test image');
-'''
+```
